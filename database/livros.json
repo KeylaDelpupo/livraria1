@@ -1,0 +1,27 @@
+[
+    {
+        "id": 2,
+        "titulo": "O Senhor dos Anéis:As Duas Torres",
+        "editora": "DH-books"
+    },
+    {
+        "id": 3,
+        "titulo": "O Senhor dos Anéis:O Retorno do Rei",
+        "editora": "DH-books"
+    },
+    {
+        "id": 4,
+        "titulo": "Harry Potter; A Pedra Filosofal",
+        "editora": "DH-books"
+    },
+    {
+        "id": 5,
+        "titulo": "As Brumas de Avalon",
+        "editora": "DH-books"
+    },
+    {
+        "id": 6,
+        "titulo": "As Brumas de Avalon",
+        "editora": "DH-Books"
+    }
+]
